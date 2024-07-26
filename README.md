@@ -1,0 +1,1 @@
+Practice Analyzing SharePoint structure
